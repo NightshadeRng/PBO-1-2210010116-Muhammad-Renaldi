@@ -3,9 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/Data/DataKota.java</file>
-            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/bakunjanganapk/BakunjanganApk.java</file>
-            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/Data/DataWisata.java</file>
+            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/gui/FrameKomentar.java</file>
+            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/gui/FrameBerita.java</file>
+            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/gui/MainFrame.java</file>
+            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/gui/FrameDataKota.java</file>
+            <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/gui/FrameDataWisata.java</file>
             <file>file:/D:/Kuliah%20dan%20Lainnya/Kuliah/Matkul/Semester%204/Pemrograman%20berbasis%20objek%201/Belajar%20Java/BakunjanganApk/src/crud/koneksi.java</file>
         </group>
     </open-files>

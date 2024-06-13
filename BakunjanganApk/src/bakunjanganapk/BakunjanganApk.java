@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package bakunjanganapk;
+import gui.MainFrame;
 import Data.DataWisata;
 import java.util.Scanner;
 import crud.koneksi;
@@ -19,6 +20,7 @@ public class BakunjanganApk {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new MainFrame().setVisible(true);
 //        koneksi crud = new koneksi();
 //        crud.simpandatakota(1, "LiangAnggang", "Banjarbaru", "70723", "Sungai");
         
